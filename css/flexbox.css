@@ -20,4 +20,8 @@
   .cabecalho__pesquisar__item {
     display: block;
   }
+
+  .rodape__container {
+    justify-content: space-between;
+  }
 }
