@@ -12,6 +12,12 @@
   display: none;
 }
 
+/* SUPERIOR SEÇÃO */
+
+.superior__secao__container {
+  display: flex;
+}
+
 /* RODAPÉ */
 
 .rodape__container {
