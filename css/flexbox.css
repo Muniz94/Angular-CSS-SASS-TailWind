@@ -17,6 +17,7 @@
 .superior__secao__container {
   display: flex;
   align-items: center;
+  white-space: nowrap;
 }
 
 /* RODAPÉ */
