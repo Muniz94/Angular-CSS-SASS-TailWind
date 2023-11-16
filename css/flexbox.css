@@ -19,6 +19,7 @@
   align-items: center;
   white-space: nowrap;
   overflow: scroll;
+  gap: 15px;
 }
 
 /* RODAPÉ */
