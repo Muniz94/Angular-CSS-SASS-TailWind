@@ -15,6 +15,7 @@
 .menu__container {
   position: fixed;
   bottom: 0%;
+  height: 74px;
 }
 
 /* SUPERIOR SEÇÃO */
