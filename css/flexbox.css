@@ -33,6 +33,7 @@
 
 .menu__itens {
   display: flex;
+  flex-direction: column;
 }
 
 .menu__lista:nth-child(2),
