@@ -105,4 +105,8 @@
   .menu__lista:nth-child(4) {
     display: flex;
   }
+
+  .menu__lista {
+    height: auto;
+  }
 }
