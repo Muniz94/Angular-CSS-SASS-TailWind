@@ -98,6 +98,7 @@
 
   .menu__container {
     width: 239px;
+    overflow: scroll;
   }
 
   .menu__lista:nth-child(2),
