@@ -114,5 +114,6 @@
 
   .menu__itens {
     flex-direction: row;
+    gap: 15px;
   }
 }
