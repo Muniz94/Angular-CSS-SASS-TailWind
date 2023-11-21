@@ -81,6 +81,12 @@
   color: #444444;
 }
 
+.descricao-video p {
+  grid-area: 2 / 2 / 3 / 3;
+  font-size: 14px;
+  color: #444444;
+}
+
 /* RODAPÉ */
 
 .rodape__container {
