@@ -60,6 +60,12 @@
   width: 280px;
 }
 
+/* DESCRIÇÃO VIDEOS */
+
+.descricao-video {
+  margin-top: 1rem;
+}
+
 /* RODAPÉ */
 
 .rodape__container {
