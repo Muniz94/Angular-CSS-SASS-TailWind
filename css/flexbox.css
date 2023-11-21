@@ -71,6 +71,10 @@
   grid-template-columns: auto 1fr;
 }
 
+.descricao-video img {
+  grid-area: 1 / 1 / 3 / 2;
+}
+
 /* RODAPÉ */
 
 .rodape__container {
