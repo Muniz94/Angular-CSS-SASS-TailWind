@@ -64,8 +64,10 @@
 
 .descricao-video {
   margin-top: 1rem;
+  display: grid;
   text-align: start;
   column-gap: 1rem;
+  grid-template-columns: auto 1fr;
 }
 
 /* RODAPÉ */
