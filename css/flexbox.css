@@ -55,6 +55,10 @@
 
 /* VIDEO */
 
+.videos__container {
+  display: flex;
+}
+
 .videos__item {
   height: 303px;
   width: 280px;
