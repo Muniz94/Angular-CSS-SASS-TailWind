@@ -58,6 +58,7 @@
 .videos__container {
   display: flex;
   flex-wrap: wrap;
+  gap: 10px;
 }
 
 .videos__item {
