@@ -1,0 +1,7 @@
+.secao {
+  display: grid;
+}
+
+.secao-horizontal {
+  grid-template-rows: 70px auto;
+}
