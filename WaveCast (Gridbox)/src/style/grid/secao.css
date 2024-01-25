@@ -17,3 +17,10 @@
 .secao-vertical {
   grid-template-columns: 1fr auto;
 }
+
+.secao-vertical .secao__cartoes {
+  display: grid;
+  grid-auto-flow: column;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
